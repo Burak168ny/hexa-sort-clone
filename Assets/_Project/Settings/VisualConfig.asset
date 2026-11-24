@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 111579953311ba748950fb350bf9fea4, type: 3}
+  m_Name: VisualConfig
+  m_EditorClassIdentifier: 
+  _hexSize: 0.5
+  _tileHeight: 0.13
+  _cellTopY: 0.05
+  _palette:
+  - {r: 1, g: 0.3019608, b: 0.36862746, a: 1}
+  - {r: 0.23921569, g: 0.54509807, b: 1, a: 1}
+  - {r: 0.29803923, g: 0.8509804, b: 0.39215687, a: 1}
+  - {r: 1, g: 0.8235294, b: 0.24705882, a: 1}
+  - {r: 0.6509804, g: 0.42352942, b: 1, a: 1}
+  - {r: 1, g: 0.5411765, b: 0.23921569, a: 1}
+  - {r: 0.18039216, g: 0.827451, b: 0.9019608, a: 1}
+  - {r: 1, g: 0.43529412, b: 0.70980394, a: 1}
+  _tileMaterials:
+  - {fileID: 2100000, guid: 6f9db90db72f9264e932b51420002a48, type: 2}
+  - {fileID: 2100000, guid: d08541c09bf86434688dd0ad59651430, type: 2}
+  - {fileID: 2100000, guid: 7359c3f6e7e07f74c84dbc3d10821a5a, type: 2}
+  - {fileID: 2100000, guid: 531037457180ae749a445a2c83f7e177, type: 2}
+  - {fileID: 2100000, guid: d6b4f471faafa8e49b5b46ca27c41858, type: 2}
+  - {fileID: 2100000, guid: fb3e5f567e861f148bea30198a7280aa, type: 2}
+  - {fileID: 2100000, guid: db21af5d39ff9694cbf282b686bf1541, type: 2}
+  - {fileID: 2100000, guid: 90fda04858909b447a001b4ad4c508ef, type: 2}
+  _cellMaterial: {fileID: 2100000, guid: b449486e9d9f9104c91fcda0d8ff2614, type: 2}
+  _cellHighlightMaterial: {fileID: 2100000, guid: c9aef19df1eb036418dc96c76776b576, type: 2}
+  _cellLockedMaterial: {fileID: 2100000, guid: 68b1e11f6c0b7d74b8e9cc7457604371, type: 2}
+  _transferTileInterval: 0.06
+  _transferTileDuration: 0.28
+  _transferArcHeight: 0.7
+  _clearStagger: 0.045
+  _clearDurationPerTile: 0.38
+  _landDuration: 0.12
+  _stepPause: 0.05

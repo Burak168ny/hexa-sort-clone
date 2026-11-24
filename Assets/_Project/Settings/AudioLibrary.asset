@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 219eb8ff7a017a04e80cae4afd43800d, type: 3}
+  m_Name: AudioLibrary
+  m_EditorClassIdentifier: 
+  UseProceduralFallback: 1
+  Entries:
+  - Id: 0
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 1
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 2
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 3
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 4
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 5
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 6
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 7
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 8
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 9
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 10
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
+  - Id: 11
+    Clips: []
+    Volume: 0.8
+    PitchVariance: 0.04
